@@ -21,9 +21,7 @@
         "symfony/polyfill-ctype": "~1.8"
     },
     "require-dev": {},
-    "conflict": {
-        "symfony/console": "<4.4"
-    },
+    "conflict": {},
     "suggest": {
         "symfony/console": "For validating YAML files using the lint command"
     },
