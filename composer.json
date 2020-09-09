@@ -1,5 +1,5 @@
 {
-    "name": "symfony/yaml",
+    "name": "symfony/yaml_conflict",
     "type": "library",
     "description": "Symfony Yaml Component",
     "keywords": [],
@@ -19,9 +19,7 @@
         "php": "^5.5.9|>=7.0.8",
         "symfony/polyfill-ctype": "~1.8"
     },
-    "require-dev": {
-        "symfony/console": "~3.4|~4.0"
-    },
+    "require-dev": {},
     "conflict": {
         "symfony/console": "<3.4"
     },
